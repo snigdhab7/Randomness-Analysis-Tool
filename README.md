@@ -12,7 +12,7 @@ This project generates an array of random integers and calculates the probabilit
 1. Clone the repository:
 
     ```bash
-    git clone <repository_link>
+    git clone https://github.com/snigdhab7/Testing_Random_Generator.git
     ```
 
 2. Import the project into your preferred C++ IDE.
