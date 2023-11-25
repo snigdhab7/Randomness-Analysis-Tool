@@ -17,7 +17,7 @@ This project generates an array of random integers and calculates the probabilit
 
 2. Import the project into your preferred C++ IDE.
 
-3. Build and run the `RGT.cpp` file.
+3. Build and run the file. [Link to Random Generator Test Code File](https://github.com/snigdhab7/Testing_Random_Generator/blob/master/8.5_Solution/8.5_Solution/sol.cpp)
 
 4. The console will display the estimated value of π based on the random generator.
 
